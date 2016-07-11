@@ -1,5 +1,5 @@
 {
-  "name": "linkurious-bower",  
+  "name": "linkurious-sigma-bower",  
   "description": "A JavaScript library to visualize and interact with graphs.",
   "main": [
     "sigma.js"],
