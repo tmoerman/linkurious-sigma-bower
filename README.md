@@ -2,7 +2,7 @@
 
 A repository to add [Linkurious](https://github.com/Linkurious/linkurious.js) `sigma.js` as a dependency with [Bower](https://bower.io/).
 
-Companion repository: [linkurious-plugins-bower](https://github.com/tmoerman/linkurious-sigma-bower).
+Companion repository: [linkurious-plugins-bower](https://github.com/tmoerman/linkurious-plugins-bower).
 
 #### Installation
 ```
